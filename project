@@ -1,0 +1,34 @@
+#include <iostream>
+using namespace std;
+
+void utama ();
+void kedua ();
+
+void utama ()
+{
+    cout << endl;
+    cout << " \t UNIVERSITAS KOPERASI INDONESIA" << endl;
+    cout << " \t FAKULTAS SAINS DAN TEKNOLOGI" << endl;
+    cout << " \t PROGRAM STUDI SAINS DATA" << endl;
+    cout << endl;
+    cout << " \t KELOMPOK 4" << endl;
+    cout << " \t Anggota kelompok : " << endl;
+    cout << " \t 1. Nabila Marsha Safitri" << endl;
+    cout << " \t 2. Nabil Alfiansyah" << endl;
+    cout << " \t 3. Rhegina Rizky Sabangga" << endl;
+    cout << " \t 4. Stela Albertina Alfanay" << endl;
+    cout << endl;
+    cout << " ***** PROGRAM VENDING MACHINE ***** " << endl;
+    system("PAUSE");
+
+}
+
+void kedua ()
+{
+    system("cls");
+    cout << endl;
+    cout << "\t========== SELAMAT DATANG DI VENDING MACHINE IKOPIN UNIVERSITY =========" << endl;
+    cout << "\t^^^^^^^^^^^^^ MENJUAL MINUMAN SEGAR DENGAN HARGA TERJANGKAU ^^^^^^^^^^^^^" << endl;
+    cout << "\t=========================================================================" << endl;
+    cout << endl;
+}
